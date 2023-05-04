@@ -1,0 +1,8 @@
+build/
+node_modules/
+
+/Management.sol
+src/prkey.txt
+/ssl.csr
+/ssl.key
+/dry
